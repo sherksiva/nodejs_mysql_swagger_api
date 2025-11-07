@@ -1,4 +1,4 @@
-# Node.js CRUD API with Swagger Documentation using MySQL
+# Node.js CRUD API, MySQL with Swagger Documentation
 
 This project is a simple CRUD API built using Node.js, Express, and MySQL, with Swagger for API documentation. The API allows users to create, read, update, and delete users in the system.
 
@@ -204,3 +204,4 @@ The following endpoints are available in the API:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
