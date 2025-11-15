@@ -20,27 +20,8 @@ Before you begin, ensure you have the following installed:
 - [MySQL](https://www.mysql.com/) (v5.7 or higher)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
-## Installation
 
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/manthanank/nodejs-swagger-mysql-crud.git
-    ```
-
-2. **Navigate to the project directory**:
-
-    ```bash
-    cd nodejs-swagger-mysql-crud
-    ```
-
-3. **Install dependencies**:
-
-    ```bash
-    npm install
-    ```
-
-4. **Create a `.env` file in the root of your project** and add the following:
+1. **Create a `.env` file in the root of your project** and add the following:
 
     ```bash
     PORT=3000
@@ -201,7 +182,5 @@ The following endpoints are available in the API:
   - `200 OK`: User deleted.
   - `404 Not Found`: User not found.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
